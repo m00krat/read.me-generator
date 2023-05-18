@@ -1,6 +1,7 @@
 # README Generator:
 Deployed URL: 
-Github Repo: 
+
+Github Repo: https://github.com/m00krat/read.me-generator/tree/master
 
 ## User Story
 
